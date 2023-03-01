@@ -58,5 +58,7 @@ Paso 7: Crear un ruta (árbol de contenido) con nombre: 'src',
 Esta debe contener una sub-carpetas con los nombres:
  - main
  - test
+
 Paso 8: Por fuera de la carperta 'src', se debe crear una carpeta con nombre: 'target'
+
 Paso 9: Por fuera de la carperta 'src', se debe crear por defecto una carpeta con nombre: 'Exernal libraries'
