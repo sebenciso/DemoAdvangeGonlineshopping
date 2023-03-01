@@ -48,12 +48,15 @@ Oprimir la tecla Windows +R:"cmd" y digitar: java -version
 Este comando debe mostrar la versión de Java JDK que has instalado. Si el comando no funciona, revisa los pasos anteriores para asegurarte de haber configurado correctamente las variables de entorno de Java.
 
 Paso 5: Crear un nuevo proyecto Gradle en el IDE Intelli J Idea Community
+
+
 Paso 6: Agregar las dependencias necesarias en el archivo build.gradle:
 
 - Agregar Gradle
 - Selenium WebDriver
 - JUnit
 - Serenity WEB
+
 Paso 7: Crear un ruta (árbol de contenido) con nombre: 'src', 
 Esta debe contener una sub-carpetas con los nombres:
  - main
