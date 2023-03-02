@@ -1,7 +1,9 @@
 rootProject.name = 'Registro'
 
 
-#El archivo settings.gradle se utiliza para definir la configuración de los proyectos que se encuentran dentro del directorio raíz del proyecto Gradle.
-#El archivo contiene una sola línea que especifica el nombre del proyecto raíz.
-#Para crear un archivo settings.gradle para el proyecto "Registro".
-#Este archivo se debe ubicar en el directorio raíz del proyecto
+/*
+El archivo settings.gradle se utiliza para definir la configuración de los proyectos que se encuentran dentro del directorio raíz del proyecto Gradle.
+El archivo contiene una sola línea que especifica el nombre del proyecto raíz.
+Para crear un archivo settings.gradle para el proyecto "Registro".
+Este archivo se debe ubicar en el directorio raíz del proyecto
+*/
