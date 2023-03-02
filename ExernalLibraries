@@ -1,0 +1,16 @@
+dependencies {
+    implementation 'com.google.guava:guava:30.1-jre'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.0'
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+    testImplementation 'junit:junit:4.13.2'
+}
+
+/*
+Un archivo de external libraries, también conocido como archivo de dependencias,
+es un archivo que lista las bibliotecas externas que necesita un proyecto para compilar y ejecutar correctamente. 
+Aquí hay un ejemplo de un archivo de dependencias para un proyecto Java utilizando Gradle.
+
+En este ejemplo, el proyecto utiliza las bibliotecas externas Guava, Jackson Databind y Commons Lang3 para su implementación. 
+También se incluye la biblioteca JUnit para las pruebas. Estas bibliotecas se descargan automáticamente 
+de los repositorios remotos de Maven cuando se compila y ejecuta el proyecto, lo que simplifica el proceso de gestión de dependencias para el desarrollador.
+*/
